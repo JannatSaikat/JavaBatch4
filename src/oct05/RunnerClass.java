@@ -2,9 +2,11 @@ package oct05;
 
 public class RunnerClass {
 
-    public static void main(String[] args) {
+    RunnerClass(){
+    }
 
-
+    public static void main(String[] args)
+    {
         //nameOfTheClass reference/object = new Costructor;
         ReferenceClass ref = new ReferenceClass();
         ref.multiply();
