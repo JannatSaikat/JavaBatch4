@@ -28,7 +28,7 @@ public class SwitchCasePrac {
     }
 
     void withSwitchCase(){
-        String day = "Wed";
+        String day = "Fri";
         switch (day) {
             case "Wed":
                 System.out.println(1);
@@ -44,6 +44,7 @@ public class SwitchCasePrac {
                 break;
             default:
                 System.out.println(5);
+
         }
     }
 }
