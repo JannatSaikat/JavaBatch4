@@ -8,7 +8,7 @@ public class Grading {
         // 60-79  C
         // 80/+ B
 
-        int marks = 79;
+         int marks = 79;
 
 
             if(marks < 40) {
